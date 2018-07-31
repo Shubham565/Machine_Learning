@@ -1,2 +1,2 @@
 # Machine_Learning
-Contains code and descriptio for important ML Algorithms.
+Contains code and description for important ML Algorithms.
