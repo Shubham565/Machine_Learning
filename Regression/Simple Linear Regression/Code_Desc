@@ -1,0 +1,58 @@
+LIBRARIES...
+NUMPY library:- Contains some mathematical tools and numerical routines
+
+   -- http://cs231n.github.io/python-numpy-tutorial/#numpy
+    
+MATPLOTLIB library:- Used for visualisations, graphs, charts and histograms
+
+   -- http://cs231n.github.io/python-numpy-tutorial/#matplotlib
+ 
+PANDAS library:- high level data structures, fast and easy data analysis, data munging, dataset management.
+
+   -- http://nbviewer.jupyter.org/github/jvns/pandas-cookbook/blob/v0.2/cookbook/Chapter%201%20-%20Reading%20from%20a%20CSV.ipynb
+   
+SKLEARN library:-The sklearn.linear_model module implements generalized linear models. It includes Ridge regression, Bayesian                            Regression, Lasso and Elastic Net estimators computed with Least Angle Regression and coordinate descent. It also                        implements Stochastic Gradient Descent related algorithms.
+
+sklearn.cross_validation.train_test_split:- 
+   -- http://scikit-learn.org/0.16/modules/generated/sklearn.cross_validation.train_test_split.html
+
+
+
+OTHER SYNTAX...
+ILOC indexer:- The iloc indexer for Pandas Dataframe is used for integer-location based indexing / selection by position.
+               iloc gets rows (or columns) at particular positions in the index (so it only takes integers).
+               Allowed inputs are:
+                  - An integer e.g. 5.
+
+                  - A list or array of integers [4, 3, 0].
+
+                  - A slice object with ints 1:7.
+
+                  - A boolean array.
+
+                  - A callable function with one argument (the calling Series, DataFrame or Panel) and that returns valid output for                           indexing (one of the above).
+              
+sklearn.linear_model.LinearRegression.fit():-
+  -- http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression.fit
+
+sklearn.linear_model.LinearRegression.predict():-
+  -- http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression.predict
+  
+matplotlib.pyplot.scatter():- A scatter plot of y vs x with varying marker size and/or color.
+  -- https://matplotlib.org/api/_as_gen/matplotlib.pyplot.scatter.html
+
+matplotlib.pyplot.plot():- Plot y versus x as lines and/or markers
+  -- https://matplotlib.org/api/_as_gen/matplotlib.pyplot.plot.html
+
+matplotlib.pyplot.title():- Set a title of the current axes.
+  -- https://matplotlib.org/api/_as_gen/matplotlib.pyplot.title.html
+  
+matplotlib.pyplot.xlabel():- Set the x-axis label of the current axes.
+  -- https://matplotlib.org/api/_as_gen/matplotlib.pyplot.xlabel.html
+  
+matplotlib.pyplot.ylabel():- Set the y-axis label of the current axes.
+  -- https://matplotlib.org/api/_as_gen/matplotlib.pyplot.ylabel.html
+  
+matplotlib.pyplot.show():- Display a figure.
+  -- https://matplotlib.org/api/_as_gen/matplotlib.pyplot.show.html
+  
