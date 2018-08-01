@@ -11,7 +11,7 @@ PANDAS library:- high level data structures, fast and easy data analysis, data m
 
    -- http://nbviewer.jupyter.org/github/jvns/pandas-cookbook/blob/v0.2/cookbook/Chapter%201%20-%20Reading%20from%20a%20CSV.ipynb
    
-SKLEARN library:-The sklearn.linear_model module implements generalized linear models. It includes Ridge regression, Bayesian                            Regression, Lasso and Elastic Net estimators computed with Least Angle Regression and coordinate descent. It also                        implements Stochastic Gradient Descent related algorithms.
+SKLEARN library:-The sklearn.linear_model module implements generalized linear models. It includes Ridge regression, Bayesian Regression, Lasso and Elastic Net estimators computed with Least Angle Regression and coordinate descent. It also implements Stochastic Gradient Descent related algorithms.
 
 sklearn.cross_validation.train_test_split:- 
    -- http://scikit-learn.org/0.16/modules/generated/sklearn.cross_validation.train_test_split.html
@@ -30,7 +30,7 @@ ILOC indexer:- The iloc indexer for Pandas Dataframe is used for integer-locatio
 
                   - A boolean array.
 
-                  - A callable function with one argument (the calling Series, DataFrame or Panel) and that returns valid output for                           indexing (one of the above).
+                  - A callable function with one argument (the calling Series, DataFrame or Panel) and that returns valid output for indexing (one of the above).
               
 sklearn.linear_model.LinearRegression.fit():-
   -- http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression.fit
